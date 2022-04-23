@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: burlywood;
+    
+}
+.a{
+    margin: 100px;
+    text-align: center;
+    border-width: 50px;
+    border-color: blue;
+    width: 150px;
+    height: 150px;
+    padding: 50px;
+    border-style: solid;
+}
